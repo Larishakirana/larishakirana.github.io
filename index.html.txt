@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Larisha Kirana Maharani</title>
+</head>
+<body>
+	<h1>Tentang Saya</h1>
+		<h2>Biodata</h2>
+			<ul>
+				<li>Nama: <i>Larisha Kirana Maharani</i></li>
+				<li>TTL : Bogor, 23 Juli 2002</li>
+			</ul>
+
+		<h2>Hobi</h2>
+			<p>Hobi saya sebenarnya bukan masak, tapi tidak juga. Karena sebenarnya saya suka memasak, tetapi saya tidak bisa memasak. Karena masakkan saya selalu gagal. Sebenarnya saya pernah bercita-cita untuk menjadi patisserie. Jenis makanan yang saya sukai adalah segala jenis makanan yang mengandung keju, makanan manis, pasta, makanan sunda, makanan yang mengandung krim, buah-buahan.</p>
+			<img src="XI.6-Larisha Kirana Maharani-hobi.png" width="" height="180"> 
+		<h3>Karya</h3>
+			<p>Karya ini saya buat untuk memenuhi tugas komputer dari <a href="http://www.smakbo.sch.id">SMAKBO</a></p>
+			<img src="XI.6-Larisha-animation.gif" width="" height="180">
+		<h3>Idola</h3>
+			<p>Idola saya ada B.J Habibie. Beliau merupakan idola saya sejak SMP. Beliau menginspirasi saya untuk terus meraih impian.</p>
+			<img src="XI.6-Larisha-idola.png">
+</body>
+</html>
