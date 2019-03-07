@@ -1,4 +1,4 @@
-body	
+body  {background-image:url("../img/black.png");	
 
 h1	{color:#001a1a;}
 	h2 {color:#001a1a;}
@@ -31,13 +31,14 @@ ul.topnav li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+	
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
 
 ul.topnav li a.active {background-color: #4CAF50;}
 
 ul.topnav li.right {float: right;}
-p.small {font-size:2vw;}
+p.small {font-size:1vw;}
 @media screen and (max-width: 600px) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
